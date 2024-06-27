@@ -9,4 +9,5 @@
 
 Kullanımı:
 - pip install -r requirements.txt
+- discord developer portaldan oluşturduğunuz botun tokenini koda ekleyin.
 - python ceviri_bot.py
